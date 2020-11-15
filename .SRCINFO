@@ -39,7 +39,7 @@ pkgbase = qemu-git
 	depends = libssh
 	depends = zstd
 	depends = liburing
-	source = git://git.qemu.org/qemu.git#commit=d0ed6a69d399ae193959225cdeaa9382746c91cc
+	source = git://github.com/vivekmiyani/qemu.git
 	source = qemu-ga.service
 	source = 65-kvm.rules
 	sha256sums = SKIP
